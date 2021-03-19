@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/File-Uploader-React/static/css/main.afd7172b.chunk.css",
+    "main.js": "/File-Uploader-React/static/js/main.f67903de.chunk.js",
+    "main.js.map": "/File-Uploader-React/static/js/main.f67903de.chunk.js.map",
+    "runtime-main.js": "/File-Uploader-React/static/js/runtime-main.3a22fca2.js",
+    "runtime-main.js.map": "/File-Uploader-React/static/js/runtime-main.3a22fca2.js.map",
+    "static/js/2.022b257c.chunk.js": "/File-Uploader-React/static/js/2.022b257c.chunk.js",
+    "static/js/2.022b257c.chunk.js.map": "/File-Uploader-React/static/js/2.022b257c.chunk.js.map",
+    "static/js/3.a7b728aa.chunk.js": "/File-Uploader-React/static/js/3.a7b728aa.chunk.js",
+    "static/js/3.a7b728aa.chunk.js.map": "/File-Uploader-React/static/js/3.a7b728aa.chunk.js.map",
+    "index.html": "/File-Uploader-React/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/File-Uploader-React/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.022b257c.chunk.js.LICENSE.txt": "/File-Uploader-React/static/js/2.022b257c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a22fca2.js",
+    "static/js/2.022b257c.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.f67903de.chunk.js"
+  ]
+}
